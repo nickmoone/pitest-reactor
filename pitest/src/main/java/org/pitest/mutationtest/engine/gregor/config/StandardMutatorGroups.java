@@ -22,6 +22,9 @@ public class StandardMutatorGroups implements MutatorGroup {
                 "REMOVE_CONDITIONALS_ORDER_IF",
                 "REMOVE_CONDITIONALS_EQUAL_IF"));
 
+        mutators.put("STRONGER+REACTIVE", gather(mutators,"STRONGER",
+                "REACTOR_REACTIVE_MUTATOR"));
+
     }
 
 }

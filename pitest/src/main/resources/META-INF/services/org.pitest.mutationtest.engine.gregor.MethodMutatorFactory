@@ -10,6 +10,7 @@ org.pitest.mutationtest.engine.gregor.mutators.InvertNegsMutator
 org.pitest.mutationtest.engine.gregor.mutators.MathMutator
 org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator
 org.pitest.mutationtest.engine.gregor.mutators.NonVoidMethodCallMutator
+org.pitest.mutationtest.engine.gregor.mutators.ReactorReactiveMutator
 org.pitest.mutationtest.engine.gregor.mutators.returns.NullReturnValsMutator
 org.pitest.mutationtest.engine.gregor.mutators.returns.PrimitiveReturnsMutator
 org.pitest.mutationtest.engine.gregor.mutators.RemoveConditionalMutator
